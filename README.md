@@ -6,5 +6,5 @@ Read the Facilitator's Guide for information about how to run it. The Facilitato
 Designed by Molly Wilson, program lead at HPI School of Design Thinking
 Prototyped and co-created by Katharina Birg, Emma Callahan, Yao Cheng, Johanna Grefertz, Yani Guo, Deborah Kohn, Jana Mendelski, Laura Plemper, and Katrin Unger, all Advanced students at HPI School of Design Thinking
 German translation by Katharina Birg
-Additional thanks to Lisa Carlgren, Christian Smirnow, Louisa Löwenstein, and Steffi Gerken
+Additional thanks to Lisa Carlgren, Christian Smirnow, Louisa Löwenstein, Jonathan Edelman, and Steffi Gerken
 You are encouraged to use, remix, and translate this activity. However, you must credit the original creators, and you must release whatever you create under a Creative Commons license. More info at https://creativecommons.org/licenses/by-sa/2.0/.
