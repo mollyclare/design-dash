@@ -2,6 +2,8 @@ This is a super-fast, facilitated introduction to design thinking methods and mi
 
 Read the Facilitator's Guide for information about how to run it. The Facilitator's Guide assumes that you have done at least a little bit of design facilitation before.
 
+More info about the background of this exercise at http://molly.is/writing/design-dash/.
+
 ### CREDITS AND LICENSE ###
 Designed by Molly Wilson, program lead at HPI School of Design Thinking
 Prototyped and co-created by Katharina Birg, Emma Callahan, Yao Cheng, Johanna Grefertz, Yani Guo, Deborah Kohn, Jana Mendelski, Laura Plemper, and Katrin Unger, all Advanced students at HPI School of Design Thinking
