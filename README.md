@@ -2,7 +2,7 @@ This is a fast, facilitated introduction to design thinking methods and mindsets
 
 Read the Facilitator's Guide for information about how to run it. The Facilitator's Guide assumes that you have done at least a little bit of design facilitation before.
 
-If you have changes you'd like to make, don't email Molly and ask her to make them! Open-source means YOU make the changes. If you want, you can then add your version (or a description of what you did) to this repository.
+If you have changes or feedback, don't email Molly and ask her to make changes! This is open-source, and that means YOU make the changes. For more info, look in the directory called "Experiences and Notes."
 
 More info about the background of this exercise at http://molly.is/writing/design-dash/.
 
