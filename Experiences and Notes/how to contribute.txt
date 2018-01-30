@@ -1,0 +1,10 @@
+The Design Dash is open-source. This means that, instead of giving me (Molly) "feedback" on the exercise, you should just change it yourself and post your changes.
+
+So if you'd like to share what you did with the Design Dash, just upload something to this folder. You can upload a revised PowerPoint, or you can just type your comments into a text file like this one. Including your name and contact info is especially appreciated.
+
+If you've never worked on an open-source project on GitHub before, awesome – this is a great opportunity to learn! 
+- Here's how to add a single text file: https://github.com/blog/1327-creating-files-on-github
+- Here's how to add/edit more files: https://github.com/CPAN-PRC/resources/wiki/My-first-Pull-Request
+- Here's how to add/edit more files without using the command line: https://pixelpioneers.co/blog/2017/using-github-without-the-command-line
+
+If you really don't want to learn to use GitHub, you can email me (here@molly.is) and I'll post stuff for you.
